@@ -1,52 +1,78 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
-  "/demo/",
-  {
-    text: "博文",
-    icon: "pen-to-square",
-    prefix: "/posts/",
-    children: [
-      {
-        text: "苹果",
-        icon: "pen-to-square",
-        prefix: "apple/",
+    '/',
+    {
+        text: '区块链',
+        icon: 'edit',
+        prefix: '/Blockchain/',
         children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
+            {
+                text: '比特币',
+                icon: 'edit',
+                link: 'Bitcoin/',
+            },
+            {
+                text: '以太坊',
+                icon: 'edit',
+                link: 'Ethereum/',
+            },
+            {
+                text: '超级账本',
+                icon: 'edit',
+                link: 'Fabric/',
+            },
         ],
-      },
-      {
-        text: "香蕉",
-        icon: "pen-to-square",
-        prefix: "banana/",
+    },
+    {
+        text: '编程语言',
+        icon: 'edit',
+        prefix: '/Program/',
         children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
+            {
+                text: 'Markdown',
+                icon: 'edit',
+                link: 'Markdown/',
+            },
+            {
+                text: 'Python',
+                icon: 'edit',
+                link: 'Python/',
+            },
         ],
-      },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
-    ],
-  },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+    },
+    {
+        text: '系统相关',
+        icon: 'edit',
+        prefix: '/System/',
+        children: [
+            {
+                text: 'Linux',
+                icon: 'edit',
+                link: 'Linux/',
+            },
+            {
+                text: 'MacOS',
+                icon: 'edit',
+                link: 'MacOS/',
+            },
+        ],
+    },
+    {
+        text: '开发工具',
+        icon: 'edit',
+        prefix: '/Tool/',
+        children: [
+            {
+                text: 'Docker',
+                icon: 'edit',
+                link: 'Docker/',
+            },
+            {
+                text: 'Git',
+                icon: 'edit',
+                link: 'Git/',
+            },
+        ],
+    },
 ]);
