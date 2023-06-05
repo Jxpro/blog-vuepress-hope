@@ -2,14 +2,14 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+    base: '/',
 
-  lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+    lang: 'zh-CN',
+    title: "Joker Xin's Blog",
+    description: '基于 vuepress-theme-hope 的博客',
 
-  theme,
+    theme,
 
-  // Enable it with pwa
-  // shouldPrefetch: false,
+    // Enable it with pwa
+    // shouldPrefetch: false,
 });
