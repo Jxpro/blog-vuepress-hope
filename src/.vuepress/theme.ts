@@ -55,6 +55,8 @@ export default hopeTheme({
             // excerpt: false,
         },
 
+        git: false,
+
         // all features are enabled for demo, only preserve features you need here
         mdEnhance: {
             align: true,
