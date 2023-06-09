@@ -5,7 +5,7 @@ description: 本文介绍了如何使用 pyinstaller 打包 Python 程序为 exe
 category:
   - Python
 tag:
-  - Program
+  - Development
   - Python
 date: 2021-11-20
 order: 6

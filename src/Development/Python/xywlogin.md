@@ -5,7 +5,7 @@ description: 本文介绍了如何使用 Python 脚本来实现自动登录校�
 category:
   - Python
 tag:
-  - Program
+  - Development
   - Python
 date: 2021-11-20
 order: 4

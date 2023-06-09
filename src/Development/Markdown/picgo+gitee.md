@@ -5,7 +5,7 @@ description: 本文介绍了如何在 Typora 中配置图传，包括安装 PicG
 category:
   - Markdown
 tag:
-  - Program
+  - Development
   - Markdown
 date: 2021-10-29
 order: 2

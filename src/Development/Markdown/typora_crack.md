@@ -5,7 +5,7 @@ description: 本文介绍了如何使用工具破解 Typora 的授权验证已�
 category:
   - Markdown
 tag:
-  - Program
+  - Development
   - Markdown
 date: 2021-12-03
 order: 3

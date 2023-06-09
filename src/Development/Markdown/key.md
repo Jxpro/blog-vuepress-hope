@@ -5,7 +5,7 @@ description: 本文介绍了Markdown 编辑器 Typora 中关于格式、列表�
 category:
   - Markdown
 tag:
-  - Program
+  - Development
   - Markdown
 date: 2021-10-13
 order: 1

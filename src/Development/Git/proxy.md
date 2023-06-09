@@ -5,7 +5,7 @@ description: 本文介绍了如何设置和取消Git代理，以及查看代理�
 category:
   - Git
 tag:
-  - Tool
+  - Development
   - Git
 date: 2021-10-27
 order: 1

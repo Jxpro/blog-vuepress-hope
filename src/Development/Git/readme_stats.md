@@ -5,7 +5,7 @@ description: 本文介绍了如何在自己的 Vercel 服务器上部署 GitHub 
 category:
   - Git
 tag:
-  - Tool
+  - Development
   - Git
 date: 2022-06-27
 order: 2

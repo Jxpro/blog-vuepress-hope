@@ -5,7 +5,7 @@ description: 本文介绍了如何使用Docker安装宝塔面板，包括基于c
 category:
   - Docker
 tag:
-  - Tool
+  - Development
   - Docker
 date: 2022-04-17
 order: 3

@@ -5,7 +5,7 @@ description: 本文介绍了 conda 的常用命令，包括重置环境、回到
 category:
   - Python
 tag:
-  - Program
+  - Development
   - Python
 date: 2022-03-11
 order: 3

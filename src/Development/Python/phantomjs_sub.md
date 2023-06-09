@@ -5,7 +5,7 @@ description: 本文介绍了Headless Chrome的使用，作为PhantomJS 的替代
 category:
   - Python
 tag:
-  - Program
+  - Development
   - Python
 date: 2022-02-24
 order: 7

@@ -5,7 +5,7 @@ description: 使用 pretty_errors 美化 Python 的错误信息，包括了安�
 category:
   - Python
 tag:
-  - Program
+  - Development
   - Python
 date: 2021-11-26
 order: 5

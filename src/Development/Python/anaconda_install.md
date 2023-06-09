@@ -5,7 +5,7 @@ description: 本文介绍了再 Ubuntu 等 Linux 环境下如何安装 Anaconda 
 category:
   - Python
 tag:
-  - Program
+  - Development
   - Python
 date: 2022-01-22
 order: 2

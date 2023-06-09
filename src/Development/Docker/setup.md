@@ -5,7 +5,7 @@ description: 本文介绍了如何在阿里云 Linux 服务器上安装 Docker�
 category:
   - Docker
 tag:
-  - Tool
+  - Development
   - Docker
 date: 2021-11-10
 order: 1

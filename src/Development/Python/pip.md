@@ -5,7 +5,7 @@ description: 本文介绍了如何配置 pip 镜像源、包括临时使用和�
 category:
   - Python
 tag:
-  - Program
+  - Development
   - Python
 date: 2022-03-30
 order: 1
