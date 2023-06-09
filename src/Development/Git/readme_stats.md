@@ -1,13 +1,14 @@
 ---
-title: 在自己的Vercel服务器上部署GitHub Stats
-shortTitle: 部署GitHub Stats
-description: 了解如何在自己的Vercel服务器上部署GitHub Stats：Fork 项目仓库、注册Vercel账号、导入项目、部署项目、调用API、自定义装X小技巧。
+title: Vercel 部署 GitHub Stats
+shortTitle: GitHub Stats
+description: 本文介绍了如何在自己的 Vercel 服务器上部署 GitHub Stats，步骤包括 Fork 项目仓库、注册 Vercel 账号、导入项目、部署项目、调用API、自定义装X小技巧。
 category:
   - Git
 tag:
   - Tool
   - Git
 date: 2022-06-27
+order: 2
 ---
 
 # 在自己的Vercel服务器部署GitHub Stats

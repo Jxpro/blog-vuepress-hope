@@ -1,13 +1,14 @@
 ---
-title: 在Typora下配置图床
-shortTitle: Typora图床配置
-description: 通过npm安装PicGo-Core，准备Gitee仓库，配置PicGo，使用配置好的文件（配置文件在~/.picgo/config.json）格式化图片名称，防止重复，使用PicGo Gitee图床插件。
+title: Typora 如何配置图床
+shortTitle: Typora 图床配置
+description: 本文介绍了如何在 Typora 中配置图传，包括安装 PicGo-Core，准备 Gitee 仓库，配置 PicGo，格式化图片名称等内容。
 category:
   - Markdown
 tag:
   - Program
   - Markdown
 date: 2021-10-29
+order: 2
 ---
 
 # Typora下配置图床

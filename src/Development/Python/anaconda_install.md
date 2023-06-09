@@ -1,16 +1,17 @@
 ---
-title: 在Ubuntu上安装Anaconda
-shortTitle: Ubuntu安装Anaconda
-description: 一、下载安装脚本；二、执行安装脚本；三、修改（清华）镜像源；四、修改环境；关闭自动激活base环境，修改base环境Python版本，测试无效，创建py2和py3环境，清楚多余的包；五、安装过程报错。
+title: 在 Linux 上安装 Anaconda
+shortTitle: Anaconda 安装
+description: 本文介绍了再 Ubuntu 等 Linux 环境下如何安装 Anaconda 并修改镜像源，此外还介绍了如何关闭自动激活base环境和一些常见的的问题。
 category:
   - Python
 tag:
   - Program
   - Python
 date: 2022-01-22
+order: 2
 ---
 
-# Ubuntu安装Anaconda
+# Linux安装Anaconda
 
 ## 一、下载安装脚本
 

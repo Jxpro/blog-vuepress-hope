@@ -1,13 +1,14 @@
 ---
-title: ROS笔记
-shortTitle: ROS笔记
-description: 本文档详细介绍了ROS的安装、运行海龟测试用例、创建工作空间与功能包、ROS的两种通信机制、topic控制海龟示例、自定义topic消息格式、service控制海龟示例、分布式多机通信以及示例代码、parameter_config设置/读取参数。
+title: ROS 安装和使用笔记
+shortTitle: ROS 笔记
+description: 本文介绍了ROS的安装、运行海龟测试用例、创建工作空间与功能包、ROS的两种通信机制、topic控制海龟示例、自定义topic消息格式、service控制海龟示例、分布式多机通信以及示例代码、parameter_config设置/读取参数等内容。
 category:
   - Linux
 tag:
   - System
   - Linux
 date: 2021-11-29
+order: 6
 ---
 
 # ROS笔记

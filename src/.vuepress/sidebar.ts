@@ -1,42 +1,33 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-    '/Blockchain/': [
-        {
-            text: '比特币',
-            icon: 'creative',
-            prefix: 'Bitcoin/',
-            link: 'bitcoin/',
-            children: 'structure',
-        },
-        {
-            text: '以太坊',
-            icon: 'creative',
-            prefix: 'Ethereum/',
-            link: 'ethereum/',
-            children: 'structure',
-        },
-        {
-            text: '超极账本',
-            icon: 'creative',
-            prefix: 'Fabric/',
-            link: 'fabric/',
-            children: 'structure',
-        },
-    ],
-    '/Program/': [
-        {
-            text: 'Markdown',
-            icon: 'creative',
-            prefix: 'Markdown/',
-            link: 'markdown/',
-            children: 'structure',
-        },
+    '/Development/': [
         {
             text: 'Python',
             icon: 'creative',
             prefix: 'Python/',
-            link: 'python/',
+            link: 'Python/',
+            children: 'structure',
+        },
+        {
+            text: 'Markdown',
+            icon: 'creative',
+            prefix: 'Markdown/',
+            link: 'Markdown/',
+            children: 'structure',
+        },
+        {
+            text: 'Docker',
+            icon: 'creative',
+            prefix: 'Docker/',
+            link: 'Docker/',
+            children: 'structure',
+        },
+        {
+            text: 'Git',
+            icon: 'creative',
+            prefix: 'Git/',
+            link: 'Git/',
             children: 'structure',
         },
     ],
@@ -45,30 +36,38 @@ export default sidebar({
             text: 'Linux',
             icon: 'creative',
             prefix: 'Linux/',
-            link: 'linux/',
+            link: 'Linux/',
             children: 'structure',
         },
         {
             text: 'MacOS',
             icon: 'creative',
             prefix: 'MacOS/',
-            link: 'macos/',
+            link: 'MacOS/',
             children: 'structure',
         },
     ],
-    '/Tool/': [
+    '/Blockchain/': [
+        'turing_complete',
         {
-            text: 'Docker',
+            text: '比特币',
             icon: 'creative',
-            prefix: 'Docker/',
-            link: 'docker/',
+            prefix: 'Bitcoin/',
+            link: 'Bitcoin/',
             children: 'structure',
         },
         {
-            text: 'Git',
+            text: '以太坊',
             icon: 'creative',
-            prefix: 'Git/',
-            link: 'git/',
+            prefix: 'Ethereum/',
+            link: 'Ethereum/',
+            children: 'structure',
+        },
+        {
+            text: '超极账本',
+            icon: 'creative',
+            prefix: 'Fabric/',
+            link: 'Fabric/',
             children: 'structure',
         },
     ],

@@ -1,13 +1,14 @@
 ---
-title: 自定义错误信息-pretty_errors
+title: pretty_errors 美化错误信息
 shortTitle: pretty_errors
-description: 使用pretty_errors来定义自己的错误信息，包括安装、使用、配置选项以及颜色选项等。
+description: 使用 pretty_errors 美化 Python 的错误信息，包括了安装、使用、配置选项以及颜色选项等内容。
 category:
   - Python
 tag:
   - Program
   - Python
 date: 2021-11-26
+order: 5
 ---
 
 # pretty_errors 自定义错误信息

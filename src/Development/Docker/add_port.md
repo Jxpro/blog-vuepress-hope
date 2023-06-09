@@ -1,13 +1,14 @@
 ---
-title: 如何使用docker容器添加对外映射端口
-shortTitle: Docker容器端口映射
-description: 本文将介绍如何使用docker容器添加对外映射端口的方法，包括重新制作镜像、修改配置文件、查看端口映射是否成功等。
+title: Docker 如何修改容器对外映射的端口
+shortTitle: 修改端口映射
+description: 本文介绍了如何修改 Docker 容器对外映射的端口，方法有重新制作镜像、修改配置文件两种。
 category:
   - Docker
 tag:
   - Tool
   - Docker
 date: 2021-11-27
+order: 4
 ---
 
 # docker容器添加对外映射端口

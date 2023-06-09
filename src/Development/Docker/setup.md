@@ -1,13 +1,14 @@
 ---
-title: 在阿里云Linux服务器上安装Docker
-shortTitle: 在阿里云安装Docker
-description: 本文介绍了如何在阿里云Linux服务器上安装Docker，内容包括使用官方安装脚本自动安装（仅适用于公网环境）、安装校验以及配置镜像加速器。
+title: 在阿里云 Linux 服务器上安装 Docker
+shortTitle: 服务器端安装
+description: 本文介绍了如何在阿里云 Linux 服务器上安装 Docker，使用了官方安装脚本来自动安装（仅适用于公网环境），并配置了镜像加速器。
 category:
   - Docker
 tag:
   - Tool
   - Docker
 date: 2021-11-10
+order: 1
 ---
 
 # 阿里云Linux服务器安装Docker

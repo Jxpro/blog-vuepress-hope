@@ -1,13 +1,14 @@
 ---
-title: .bashrc与.profile等的区别
-shortTitle: .bashrc与.profile的区别
-description: 本文将介绍.bashrc与.profile等的区别，包括本机测试与资料查询。
+title: bashrc 与 profile 文件的区别
+shortTitle: bashrc 与 profile
+description: 本文介绍了.bashrc与.profile文件的区别，包括了本机测试与资料查询。
 category:
   - Linux
 tag:
   - System
   - Linux
 date: 2021-10-29
+order: 8
 ---
 
 # .bashrc与.profile等的区别

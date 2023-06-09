@@ -1,13 +1,14 @@
 ---
-title: 在 Docker 中安装宝塔面板
+title: 使用 Docker 安装宝塔面板
 shortTitle: 安装宝塔面板
-description: 本文将介绍如何在Docker中安装宝塔面板，包括软硬件版本、安装（基于centos镜像和直接使用宝塔镜像）、宝塔管理、以及解决安装中遇到的问题等。
+description: 本文介绍了如何使用Docker安装宝塔面板，包括基于centos镜像和直接使用宝塔镜像两种方法，另外有宝塔面包的管理、以及解决安装中遇到的问题。
 category:
   - Docker
 tag:
   - Tool
   - Docker
 date: 2022-04-17
+order: 3
 ---
 
 # Docker 中安装宝塔面板

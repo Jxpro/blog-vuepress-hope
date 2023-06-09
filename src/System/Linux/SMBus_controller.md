@@ -1,13 +1,14 @@
 ---
 title: VMware 下安装 Ubuntu 报 SMBus 错误
-shortTitle: Ubuntu SMBus 错误
-description: 当在 VMware 上安装 Ubuntu 时，可能会出现 SMBus 错误，如 i2c_piix4 Host SMBus controller not enabled。报错的根源在于 i2c_piix4，可以通过搜索 i2c_piix4 解决此问题。
+shortTitle: SMBus 错误
+description: 当在 VMware 上安装 Ubuntu 时，可能会出现 SMBus 错误，如 i2c_piix4 Host SMBus controller not enabled。报错的根源在于 i2c_piix4，可以通过禁用 i2c_piix4 解决此问题。
 category:
   - Linux
 tag:
   - System
   - Linux
 date: 2022-02-13
+order: 7
 ---
 
 # VMware 下 安装 Ubuntu 报 SMBus 错误

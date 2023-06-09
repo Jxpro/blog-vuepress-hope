@@ -1,13 +1,14 @@
 ---
-title: Linux 常用指令
-shortTitle: Linux 常用指令
-description: 介绍 tar & gzip、systemctl、su 和 sudo、sed命令、sed命令格式、sed替换标记、sed元字符集和sed用法实例。
+title: Linux 中的常用指令
+shortTitle: 常用指令
+description: 本文介绍了 tar & gzip、systemctl、su 和 sudo、sed 命令。
 category:
   - Linux
 tag:
   - System
   - Linux
 date: 2021-10-29
+order: 2
 ---
 
 # Linux常用指令

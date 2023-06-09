@@ -1,13 +1,14 @@
 ---
-title: 使用Typora的快捷键
-shortTitle: 常用快捷键
-description: 了解Typora的格式、列表、表格和显示相关的快捷键。
+title: Typora 中的快捷键
+shortTitle: Typora 快捷键
+description: 本文介绍了Markdown 编辑器 Typora 中关于格式、列表、表格和显示相关的快捷键。
 category:
   - Markdown
 tag:
   - Program
   - Markdown
 date: 2021-10-13
+order: 1
 ---
 
 # typora快捷键

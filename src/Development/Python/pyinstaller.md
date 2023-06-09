@@ -1,13 +1,14 @@
 ---
-title: 用PyInstaller打包Python程序成.exe
-shortTitle: 打包Python成.exe
-description: 介绍了安装pyinstaller、pyinstaller打包机制、pyinstaller打包exe、取消控制台输出、指定模块目录、指定exe图标打包以及其他常用命令。
+title: Pyinstaller 打包 Python 程序为 exe 文件
+shortTitle: 打包 exe 文件
+description: 本文介绍了如何使用 pyinstaller 打包 Python 程序为 exe 文件、并简单说明了打包机制及常用命令。
 category:
   - Python
 tag:
   - Program
   - Python
 date: 2021-11-20
+order: 6
 ---
 
 # Python程序打包成.exe

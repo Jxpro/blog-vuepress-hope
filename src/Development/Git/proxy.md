@@ -1,13 +1,14 @@
 ---
-title: 如何设置Git代理
-shortTitle: 为Git设置全局代理
-description: 了解如何设置Git代理，取消代理，以及查看设置代理的步骤。
+title: Git 如何设置代理
+shortTitle: 设置代理
+description: 本文介绍了如何设置和取消Git代理，以及查看代理的步骤。
 category:
   - Git
 tag:
   - Tool
   - Git
 date: 2021-10-27
+order: 1
 ---
 
 # Git设置代理

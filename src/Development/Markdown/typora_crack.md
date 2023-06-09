@@ -1,13 +1,14 @@
 ---
-title: 破解 Typora 验证
-shortTitle: 破解 Typora
-description: 介绍如何使用工具破解 Typora，重点介绍注意的坑，如路径最好加引号、需手动创建文件夹、app.asar 的位置。
+title: Typora 如何破解授权验证
+shortTitle: Typora 验证破解
+description: 本文介绍了如何使用工具破解 Typora 的授权验证已经遇到的问题。
 category:
   - Markdown
 tag:
   - Program
   - Markdown
 date: 2021-12-03
+order: 3
 ---
 
 # 破解 Typora 验证

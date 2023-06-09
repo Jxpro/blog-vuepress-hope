@@ -1,13 +1,14 @@
 ---
-title: 使用iTerm2通过SSH连接服务器并传输文件
-shortTitle: 使用iTerm2传输文件
-description: 本文将介绍如何使用iTerm2通过SSH连接服务器并传输文件，包括手动登录服务器、自动登录服务器，以及使用lrzsz传输文件。
+title: 使用 iTerm2 通过 SSH 连接服务器
+shortTitle: iTerm2 配置
+description: 本文介绍了如何使用 iTerm2 通过 SSH 快速连接服务器并传输文件，包括手动登录服务器、自动登录服务器，以及使用lrzsz传输文件。
 category:
   - MacOS
 tag:
   - System
   - MacOS
 date: 2023-03-18
+order: 3
 ---
 
 # iTerm2通过ssh连接服务器并传输文件

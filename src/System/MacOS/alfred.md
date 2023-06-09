@@ -1,13 +1,14 @@
 ---
-title: Alfred配置详解和workflow推荐
-shortTitle: Alfred配置详解
-description: 了解Alfred各项配置及workflow推荐，包括General、Features、Workflows、Appearance、Remote、Advanced等内容。
+title: Alfred 配置详解与 workflow 推荐
+shortTitle: Alfred 配置
+description: 本文详细介绍了 Alfred 的各项配置，包括General、Features、Workflows、Appearance、Remote、Advanced等内容，最后推荐了一些 workflow。
 category:
   - MacOS
 tag:
   - System
   - MacOS
 date: 2023-03-21
+order: 2
 ---
 
 # Alfred配置详解和workflow推荐

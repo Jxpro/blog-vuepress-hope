@@ -5,11 +5,11 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
     hotReload: true,
 
-    hostname: 'https://jxpro.github.io',
+    hostname: 'https://blog.xin127.me',
 
     author: {
         name: 'Joker Xin',
-        url: 'https://jxpro.github.io',
+        url: 'https://blog.xin127.me',
     },
 
     iconAssets: 'iconfont',
@@ -36,6 +36,8 @@ export default hopeTheme({
         articleInfo: ['Author', 'Date', 'PageView', 'ReadingTime', 'Tag'],
     },
 
+    pageInfo: ['Author', 'Date', 'PageView', 'ReadingTime', 'Tag'],
+
     plugins: {
         // 设置的star: true这个frontmatter不起作用（resolved）
         autoCatalog: {
@@ -50,6 +52,7 @@ export default hopeTheme({
             // 需要注意的是，设置为文章不意味着会在文章列表中显示，文章列表的过滤使用的是另外的方法
             // 文具体来说，章列表的显示需要通过frontmatter中的article来控制，必须有对应的markdown文件，且home: false
             filter: () => true,
+            // excerpt: false,
         },
 
         // all features are enabled for demo, only preserve features you need here

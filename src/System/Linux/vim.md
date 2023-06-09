@@ -1,13 +1,14 @@
 ---
-title: Vim基本使用
-shortTitle: 快速选择命令
-description: 了解Vim的基本使用，学习快速选择命令的技巧。
+title: vim 的基本命令和使用
+shortTitle: vim 命令
+description: 了解 vim 的基本使用，学习快速选择命令的技巧。
 category:
   - Linux
 tag:
   - System
   - Linux
 date: 2021-10-13
+order: 3
 ---
 
 # Vim基本使用

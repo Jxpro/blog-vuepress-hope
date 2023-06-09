@@ -1,13 +1,14 @@
 ---
-title: 使用Conda管理环境变量
-shortTitle: Conda环境管理
-description: 了解Conda如何重置环境、查看环境记录、回到指定版本、重命名环境、备份环境、包管理、pip安装本地包、conda安装本地包、清理瘦身、关闭/自动激活base、为所有shell初始化conda、初始化conda和恢复初始化。
+title: 使用 conda 管理 Python 环境
+shortTitle: conda 环境管理
+description: 本文介绍了 conda 的常用命令，包括重置环境、回到指定版本、重命名环境、备份环境、包管理、安装本地包、清理瘦身、关闭/自动激活base、初始化conda和恢复初始化等内容。
 category:
   - Python
 tag:
   - Program
   - Python
 date: 2022-03-11
+order: 3
 ---
 
 # Conda使用相关

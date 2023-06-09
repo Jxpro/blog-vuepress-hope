@@ -1,13 +1,14 @@
 ---
-title: MacOS从零配置
-shortTitle: MacOS零配置
-description: 本文介绍了MacOS的从零配置过程，包括Clash、Homebrew、iTerm2、终端美化、CLI和APP、其他软件等内容。
+title: MacOS 从零配置教程
+shortTitle: 新机配置
+description: 本文介绍了 MacOS 的从零开始配置的过程，包括Clash、Homebrew、iTerm2、终端美化、CLI和APP、其他软件等内容。
 category:
   - MacOS
 tag:
   - System
   - MacOS
 date: 2023-03-15
+order: 1
 ---
 
 # MacOS从零配置

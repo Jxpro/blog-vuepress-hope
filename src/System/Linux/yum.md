@@ -1,13 +1,14 @@
 ---
-title: 学习yum指令的使用
-shortTitle: yum指令的使用
-description: 本文将带你一步步学习yum指令的使用，包括安装与卸载、升级、查找和缓存等常用命令，同时还会讲解update和upgrade的区别，并介绍阿里云镜像站和网易镜像站的切换软件源技巧。
+title: yum 包管理器的使用
+shortTitle: yum 使用
+description: 本文介绍了 centos 下 yum 包管理器的使用，包括安装与卸载、升级、查找和缓存等常用命令，同时还讲解了 update 和 upgrade 的区别，以及更换镜像源。
 category:
   - Linux
 tag:
   - System
   - Linux
 date: 2022-02-17
+order: 4
 ---
 
 # yum指令的使用

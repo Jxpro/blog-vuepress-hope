@@ -1,13 +1,14 @@
 ---
-title: 在Ubuntu下配置FTP
-shortTitle: 配置FTP
-description: 本文将介绍FTP工作原理，以及安装、配置、登录FTP服务的步骤，以及可能遇到的问题。
+title: 以 Ubuntu 为例配置FTP
+shortTitle: FTP 配置
+description: 本文介绍了 FTP 的基本工作模式，以及安装、配置、登录FTP服务的步骤，还有可能遇到的问题。
 category:
   - Linux
 tag:
   - System
   - Linux
 date: 2022-04-16
+order: 5
 ---
 
 # Ubuntu下配置FTP

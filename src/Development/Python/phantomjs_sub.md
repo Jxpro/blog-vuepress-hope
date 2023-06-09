@@ -1,13 +1,14 @@
 ---
-title: PhantomJS替代方案
-shortTitle: PhantomJS替代
-description: 介绍Headless Chrome的使用。
+title: PhantomJS 的替代方案 - Headless Chrome
+shortTitle: Headless Chrome
+description: 本文介绍了Headless Chrome的使用，作为PhantomJS 的替代方案。
 category:
   - Python
 tag:
   - Program
   - Python
 date: 2022-02-24
+order: 7
 ---
 
 # PhantomJS替代方案

@@ -1,13 +1,14 @@
 ---
-title: 关于pip使用的相关操作
-shortTitle: pip使用
-description: 本文将介绍如何正确配置pip换源、临时使用、设为默认、收到配置文件和配置pycharm，以及解决误删pip的相关错误。
+title: pip 如何换源与误删恢复
+shortTitle: pip 换源与恢复
+description: 本文介绍了如何配置 pip 镜像源、包括临时使用和设为永久两种方式，并在 pycharm 中进行配置，还介绍了误删 pip 的恢复方法和遇到的错误。
 category:
   - Python
 tag:
   - Program
   - Python
 date: 2022-03-30
+order: 1
 ---
 
 # pip 使用相关

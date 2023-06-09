@@ -1,13 +1,14 @@
 ---
-title: Python脚本实现校园网自动登录
+title: Python 实现自动登录校园网
 shortTitle: 校园网自动登录
-description: 介绍如何使用Python脚本实现校园网自动登录，详情包括代码模板、设置开机自启以及设置运行时隐藏DOS窗口。
+description: 本文介绍了如何使用 Python 脚本来实现自动登录校园网，包括了代码模板、设置开机自启以及设置运行时隐藏DOS窗口等内容。
 category:
   - Python
 tag:
   - Program
   - Python
 date: 2021-11-20
+order: 4
 ---
 
 # Python脚本实现校园网自动登录

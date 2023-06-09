@@ -1,13 +1,14 @@
 ---
-title: 查看Linux系统架构的命令
-shortTitle: 查看Linux架构
-description: 此文介绍了查看Linux系统架构的5个命令，分别为：查看内核版本、查看Linux版本信息、查看Linux是64位还是32位、直接查看系统的架构以及查看Mint系统对应的Ubuntu系统。
+title: 如何查看 Linux 系统的架构
+shortTitle: 查看架构
+description: 本文介绍了查看 Linux 系统架构的5个命令，分别为：查看内核版本、查看 Linux 版本信息、查看 Linux 是64位还是32位、直接查看系统的架构以及查看 Mint 系统对应的 Ubuntu 系统。
 category:
   - Linux
 tag:
   - System
   - Linux
 date: 2022-10-07
+order: 1
 ---
 
 # 查看Linux系统架构的命令
